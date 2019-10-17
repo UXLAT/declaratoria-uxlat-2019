@@ -1,4 +1,4 @@
-# Principios
+# 02. Principios
 
 Los pilares que se definieron a partir de un trabajo colaborativo son:
 

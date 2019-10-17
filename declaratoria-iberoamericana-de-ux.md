@@ -2,7 +2,7 @@
 description: UXLat 2019
 ---
 
-# Declaratoria Iberoamericana de UX
+# 01. Declaratoria Iberoamericana de UX
 
 En el marco de la iniciativa Innovación 2050, dentro del UX-LAT 2019, coorganizado por la Universidad Católica de Chile, la Universidad de Monterrey y la User Experience Professional Association \(UXPA\), 30 profesionales de la industria UX1 de iberoamérica, nos reunimos el 2 de octubre de 2019 para deliberar y definir los retos y oportunidades para abordar de mejor forma la UX en el contexto iberoamericano.
 
