@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Declaratoria Iberoamericana de UX](README.md)
+* [Readme](README.md)
+* [Declaratoria Iberoamericana de UX](declaratoria-iberoamericana-de-ux.md)
 * [Principios](principios/README.md)
   * [1.La UX debe estar enfocado en mejorar la vida de las personas.](principios/1.la-ux-debe-estar-enfocado-en-mejorar-la-vida-de-las-personas..md)
   * [2. La UX es parte del negocio, y nunca puede estar por encima de él.](principios/2.-la-ux-es-parte-del-negocio-y-nunca-puede-estar-por-encima-de-el..md)
